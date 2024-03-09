@@ -1,1 +1,1 @@
-https://peminjamansepedafahmi.streamlit.app/
+https://sepedafahmidipinjam.streamlit.app/
